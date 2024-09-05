@@ -1,0 +1,44 @@
+.add-match-page {
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  .add-match-page h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .add-match-page form {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .add-match-page label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .add-match-page input, .add-match-page select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
+  .add-match-page button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-match-page button:hover {
+    background-color: #0056b3;
+  }
+  
+  .add-match-page .error {
+    color: red;
+    text-align: center;
+  }
+  
